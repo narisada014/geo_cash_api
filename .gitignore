@@ -1,0 +1,13 @@
+# bundle file
+vendor/bundle
+
+# tmp
+/tmp/*
+
+# IntelliJ
+.idea/*
+.idea/workspace.xml
+
+/log/*
+
+data/
