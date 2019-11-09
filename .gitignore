@@ -11,3 +11,7 @@ vendor/bundle
 /log/*
 
 data/
+
+# terraform env file
+env.tf
+.terraform
