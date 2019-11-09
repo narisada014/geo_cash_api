@@ -13,5 +13,7 @@ vendor/bundle
 data/
 
 # terraform env file
-env.tf
+terraform/env.tf
 .terraform
+./terraform/.terraform
+
